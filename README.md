@@ -5,4 +5,5 @@
 # itt baj lesz....
 # itt nem lesz baj!!!
 # visual studio
-# tesztelés ág
+# tesztelés és main ág
+
